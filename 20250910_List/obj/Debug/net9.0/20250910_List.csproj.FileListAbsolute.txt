@@ -1,0 +1,14 @@
+C:\study\20250910\20250910_List\bin\Debug\net9.0\20250910_List.exe
+C:\study\20250910\20250910_List\bin\Debug\net9.0\20250910_List.deps.json
+C:\study\20250910\20250910_List\bin\Debug\net9.0\20250910_List.runtimeconfig.json
+C:\study\20250910\20250910_List\bin\Debug\net9.0\20250910_List.dll
+C:\study\20250910\20250910_List\bin\Debug\net9.0\20250910_List.pdb
+C:\study\20250910\20250910_List\obj\Debug\net9.0\20250910_List.GeneratedMSBuildEditorConfig.editorconfig
+C:\study\20250910\20250910_List\obj\Debug\net9.0\20250910_List.AssemblyInfoInputs.cache
+C:\study\20250910\20250910_List\obj\Debug\net9.0\20250910_List.AssemblyInfo.cs
+C:\study\20250910\20250910_List\obj\Debug\net9.0\20250910_List.csproj.CoreCompileInputs.cache
+C:\study\20250910\20250910_List\obj\Debug\net9.0\20250910_List.dll
+C:\study\20250910\20250910_List\obj\Debug\net9.0\refint\20250910_List.dll
+C:\study\20250910\20250910_List\obj\Debug\net9.0\20250910_List.pdb
+C:\study\20250910\20250910_List\obj\Debug\net9.0\20250910_List.genruntimeconfig.cache
+C:\study\20250910\20250910_List\obj\Debug\net9.0\ref\20250910_List.dll

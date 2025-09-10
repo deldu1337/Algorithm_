@@ -1,0 +1,14 @@
+C:\study\20250910\20250910_LinkedList\bin\Debug\net9.0\20250910_LinkedList.exe
+C:\study\20250910\20250910_LinkedList\bin\Debug\net9.0\20250910_LinkedList.deps.json
+C:\study\20250910\20250910_LinkedList\bin\Debug\net9.0\20250910_LinkedList.runtimeconfig.json
+C:\study\20250910\20250910_LinkedList\bin\Debug\net9.0\20250910_LinkedList.dll
+C:\study\20250910\20250910_LinkedList\bin\Debug\net9.0\20250910_LinkedList.pdb
+C:\study\20250910\20250910_LinkedList\obj\Debug\net9.0\20250910_LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\study\20250910\20250910_LinkedList\obj\Debug\net9.0\20250910_LinkedList.AssemblyInfoInputs.cache
+C:\study\20250910\20250910_LinkedList\obj\Debug\net9.0\20250910_LinkedList.AssemblyInfo.cs
+C:\study\20250910\20250910_LinkedList\obj\Debug\net9.0\20250910_LinkedList.csproj.CoreCompileInputs.cache
+C:\study\20250910\20250910_LinkedList\obj\Debug\net9.0\20250910_LinkedList.dll
+C:\study\20250910\20250910_LinkedList\obj\Debug\net9.0\refint\20250910_LinkedList.dll
+C:\study\20250910\20250910_LinkedList\obj\Debug\net9.0\20250910_LinkedList.pdb
+C:\study\20250910\20250910_LinkedList\obj\Debug\net9.0\20250910_LinkedList.genruntimeconfig.cache
+C:\study\20250910\20250910_LinkedList\obj\Debug\net9.0\ref\20250910_LinkedList.dll
