@@ -1,0 +1,14 @@
+C:\study\20250911\20250911_CountingStar\bin\Debug\net9.0\20250911_CountingStar.exe
+C:\study\20250911\20250911_CountingStar\bin\Debug\net9.0\20250911_CountingStar.deps.json
+C:\study\20250911\20250911_CountingStar\bin\Debug\net9.0\20250911_CountingStar.runtimeconfig.json
+C:\study\20250911\20250911_CountingStar\bin\Debug\net9.0\20250911_CountingStar.dll
+C:\study\20250911\20250911_CountingStar\bin\Debug\net9.0\20250911_CountingStar.pdb
+C:\study\20250911\20250911_CountingStar\obj\Debug\net9.0\20250911_CountingStar.GeneratedMSBuildEditorConfig.editorconfig
+C:\study\20250911\20250911_CountingStar\obj\Debug\net9.0\20250911_CountingStar.AssemblyInfoInputs.cache
+C:\study\20250911\20250911_CountingStar\obj\Debug\net9.0\20250911_CountingStar.AssemblyInfo.cs
+C:\study\20250911\20250911_CountingStar\obj\Debug\net9.0\20250911_CountingStar.csproj.CoreCompileInputs.cache
+C:\study\20250911\20250911_CountingStar\obj\Debug\net9.0\20250911_CountingStar.dll
+C:\study\20250911\20250911_CountingStar\obj\Debug\net9.0\refint\20250911_CountingStar.dll
+C:\study\20250911\20250911_CountingStar\obj\Debug\net9.0\20250911_CountingStar.pdb
+C:\study\20250911\20250911_CountingStar\obj\Debug\net9.0\20250911_CountingStar.genruntimeconfig.cache
+C:\study\20250911\20250911_CountingStar\obj\Debug\net9.0\ref\20250911_CountingStar.dll
