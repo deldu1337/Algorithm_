@@ -1,0 +1,14 @@
+C:\study\20250911\20250911_Add\bin\Debug\net9.0\20250911_Add.exe
+C:\study\20250911\20250911_Add\bin\Debug\net9.0\20250911_Add.deps.json
+C:\study\20250911\20250911_Add\bin\Debug\net9.0\20250911_Add.runtimeconfig.json
+C:\study\20250911\20250911_Add\bin\Debug\net9.0\20250911_Add.dll
+C:\study\20250911\20250911_Add\bin\Debug\net9.0\20250911_Add.pdb
+C:\study\20250911\20250911_Add\obj\Debug\net9.0\20250911_Add.GeneratedMSBuildEditorConfig.editorconfig
+C:\study\20250911\20250911_Add\obj\Debug\net9.0\20250911_Add.AssemblyInfoInputs.cache
+C:\study\20250911\20250911_Add\obj\Debug\net9.0\20250911_Add.AssemblyInfo.cs
+C:\study\20250911\20250911_Add\obj\Debug\net9.0\20250911_Add.csproj.CoreCompileInputs.cache
+C:\study\20250911\20250911_Add\obj\Debug\net9.0\20250911_Add.dll
+C:\study\20250911\20250911_Add\obj\Debug\net9.0\refint\20250911_Add.dll
+C:\study\20250911\20250911_Add\obj\Debug\net9.0\20250911_Add.pdb
+C:\study\20250911\20250911_Add\obj\Debug\net9.0\20250911_Add.genruntimeconfig.cache
+C:\study\20250911\20250911_Add\obj\Debug\net9.0\ref\20250911_Add.dll
