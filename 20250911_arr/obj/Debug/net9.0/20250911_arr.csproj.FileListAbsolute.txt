@@ -1,0 +1,14 @@
+C:\study\20250911\20250911_arr\bin\Debug\net9.0\20250911_arr.exe
+C:\study\20250911\20250911_arr\bin\Debug\net9.0\20250911_arr.deps.json
+C:\study\20250911\20250911_arr\bin\Debug\net9.0\20250911_arr.runtimeconfig.json
+C:\study\20250911\20250911_arr\bin\Debug\net9.0\20250911_arr.dll
+C:\study\20250911\20250911_arr\bin\Debug\net9.0\20250911_arr.pdb
+C:\study\20250911\20250911_arr\obj\Debug\net9.0\20250911_arr.GeneratedMSBuildEditorConfig.editorconfig
+C:\study\20250911\20250911_arr\obj\Debug\net9.0\20250911_arr.AssemblyInfoInputs.cache
+C:\study\20250911\20250911_arr\obj\Debug\net9.0\20250911_arr.AssemblyInfo.cs
+C:\study\20250911\20250911_arr\obj\Debug\net9.0\20250911_arr.csproj.CoreCompileInputs.cache
+C:\study\20250911\20250911_arr\obj\Debug\net9.0\20250911_arr.dll
+C:\study\20250911\20250911_arr\obj\Debug\net9.0\refint\20250911_arr.dll
+C:\study\20250911\20250911_arr\obj\Debug\net9.0\20250911_arr.pdb
+C:\study\20250911\20250911_arr\obj\Debug\net9.0\20250911_arr.genruntimeconfig.cache
+C:\study\20250911\20250911_arr\obj\Debug\net9.0\ref\20250911_arr.dll
