@@ -1,0 +1,14 @@
+C:\study\20250915_List\20250915_List\bin\Debug\net9.0\20250915_List.exe
+C:\study\20250915_List\20250915_List\bin\Debug\net9.0\20250915_List.deps.json
+C:\study\20250915_List\20250915_List\bin\Debug\net9.0\20250915_List.runtimeconfig.json
+C:\study\20250915_List\20250915_List\bin\Debug\net9.0\20250915_List.dll
+C:\study\20250915_List\20250915_List\bin\Debug\net9.0\20250915_List.pdb
+C:\study\20250915_List\20250915_List\obj\Debug\net9.0\20250915_List.GeneratedMSBuildEditorConfig.editorconfig
+C:\study\20250915_List\20250915_List\obj\Debug\net9.0\20250915_List.AssemblyInfoInputs.cache
+C:\study\20250915_List\20250915_List\obj\Debug\net9.0\20250915_List.AssemblyInfo.cs
+C:\study\20250915_List\20250915_List\obj\Debug\net9.0\20250915_List.csproj.CoreCompileInputs.cache
+C:\study\20250915_List\20250915_List\obj\Debug\net9.0\20250915_List.dll
+C:\study\20250915_List\20250915_List\obj\Debug\net9.0\refint\20250915_List.dll
+C:\study\20250915_List\20250915_List\obj\Debug\net9.0\20250915_List.pdb
+C:\study\20250915_List\20250915_List\obj\Debug\net9.0\20250915_List.genruntimeconfig.cache
+C:\study\20250915_List\20250915_List\obj\Debug\net9.0\ref\20250915_List.dll
