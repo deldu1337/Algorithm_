@@ -1,0 +1,14 @@
+C:\study\20250917\20250917_GetHeight\bin\Debug\net9.0\20250917_GetHeight.exe
+C:\study\20250917\20250917_GetHeight\bin\Debug\net9.0\20250917_GetHeight.deps.json
+C:\study\20250917\20250917_GetHeight\bin\Debug\net9.0\20250917_GetHeight.runtimeconfig.json
+C:\study\20250917\20250917_GetHeight\bin\Debug\net9.0\20250917_GetHeight.dll
+C:\study\20250917\20250917_GetHeight\bin\Debug\net9.0\20250917_GetHeight.pdb
+C:\study\20250917\20250917_GetHeight\obj\Debug\net9.0\20250917_GetHeight.GeneratedMSBuildEditorConfig.editorconfig
+C:\study\20250917\20250917_GetHeight\obj\Debug\net9.0\20250917_GetHeight.AssemblyInfoInputs.cache
+C:\study\20250917\20250917_GetHeight\obj\Debug\net9.0\20250917_GetHeight.AssemblyInfo.cs
+C:\study\20250917\20250917_GetHeight\obj\Debug\net9.0\20250917_GetHeight.csproj.CoreCompileInputs.cache
+C:\study\20250917\20250917_GetHeight\obj\Debug\net9.0\20250917_GetHeight.dll
+C:\study\20250917\20250917_GetHeight\obj\Debug\net9.0\refint\20250917_GetHeight.dll
+C:\study\20250917\20250917_GetHeight\obj\Debug\net9.0\20250917_GetHeight.pdb
+C:\study\20250917\20250917_GetHeight\obj\Debug\net9.0\20250917_GetHeight.genruntimeconfig.cache
+C:\study\20250917\20250917_GetHeight\obj\Debug\net9.0\ref\20250917_GetHeight.dll
