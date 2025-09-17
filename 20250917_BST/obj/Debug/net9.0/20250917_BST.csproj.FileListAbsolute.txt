@@ -1,0 +1,14 @@
+C:\study\20250917\20250917_BST\bin\Debug\net9.0\20250917_BST.exe
+C:\study\20250917\20250917_BST\bin\Debug\net9.0\20250917_BST.deps.json
+C:\study\20250917\20250917_BST\bin\Debug\net9.0\20250917_BST.runtimeconfig.json
+C:\study\20250917\20250917_BST\bin\Debug\net9.0\20250917_BST.dll
+C:\study\20250917\20250917_BST\bin\Debug\net9.0\20250917_BST.pdb
+C:\study\20250917\20250917_BST\obj\Debug\net9.0\20250917_BST.GeneratedMSBuildEditorConfig.editorconfig
+C:\study\20250917\20250917_BST\obj\Debug\net9.0\20250917_BST.AssemblyInfoInputs.cache
+C:\study\20250917\20250917_BST\obj\Debug\net9.0\20250917_BST.AssemblyInfo.cs
+C:\study\20250917\20250917_BST\obj\Debug\net9.0\20250917_BST.csproj.CoreCompileInputs.cache
+C:\study\20250917\20250917_BST\obj\Debug\net9.0\20250917_BST.dll
+C:\study\20250917\20250917_BST\obj\Debug\net9.0\refint\20250917_BST.dll
+C:\study\20250917\20250917_BST\obj\Debug\net9.0\20250917_BST.pdb
+C:\study\20250917\20250917_BST\obj\Debug\net9.0\20250917_BST.genruntimeconfig.cache
+C:\study\20250917\20250917_BST\obj\Debug\net9.0\ref\20250917_BST.dll
